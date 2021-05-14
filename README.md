@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaining experience & knowledge
 - 🌱 I’m currently learning numerical methods & reliability engineering
 - 💞️ I’m looking to collaborate on Python, Octave/Matlab code projects
-- 📫 How to reach me @brendanm9t
+- 📫 How to reach me <html@brendanm9t>
 
 <!---
 brendanm9t/brendanm9t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
