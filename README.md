@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brendanm9t
 - 👀 I’m interested in gaining experience & knowledge
-- 🌱 I’m currently learning numerical methods & reliability engineering
+- 🌱 I’m currently learning numerical methods & optimisation
 - 💞️ I’m looking to collaborate on Python, Octave/Matlab code projects
 - 📫 How to reach me https://github.com/brendanm9t
 
